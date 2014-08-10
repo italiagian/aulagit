@@ -1,5 +1,4 @@
 # PRINCIPAIS INSTRUCOES FEITAS PARA ESSE ESTUDO
-=============================================
 
 * Apos ter criado um diretorio do aulagit, eu usei o comando GIT INIT ( CRIEI UM REPOSITORIO LOCALMENTE).
 
